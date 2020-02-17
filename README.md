@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to github-server 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/dswhitely1/github-reporter-server#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -17,18 +17,18 @@
 ## Install
 
 ```sh
-npm install
+yarn install
 ```
 
 ## Run tests
 
 ```sh
-npm run test
+yarn run test
 ```
 
 ## Author
 
-👤 **Donald Whitely**
+👤 **Donald Whitely <dswhitely1@gmail.com> (https://www.donwhitely.com)**
 
 * Github: [@dswhitely1](https://github.com/dswhitely1)
 
@@ -42,7 +42,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [Donald Whitely](https://github.com/dswhitely1).<br />
+Copyright © 2020 [Donald Whitely <dswhitely1@gmail.com> (https://www.donwhitely.com)](https://github.com/dswhitely1).<br />
 This project is [MIT](https://github.com/dswhitely1/github-reporter-server/blob/master/LICENSE) licensed.
 
 ***
