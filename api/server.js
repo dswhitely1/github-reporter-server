@@ -13,8 +13,8 @@ server.use([helmet(), express.json(), cors(), morgan('dev')]);
 server.use('/', routes);
 
 server.use((error, req, res, next) => {
-    console.log('Called', error);
-    res.status(500).json({ message: 'An Error Has Occurred', error });
+  console.log('Called', error);
+  res.status(500).json({ message: 'An Error Has Occurred', error });
 });
 
 module.exports = server;

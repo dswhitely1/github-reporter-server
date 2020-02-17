@@ -1,5 +1,5 @@
 const profileRouter = require('express').Router();
-const {findProfile} = require('../controllers/profile.controller');
+const { findProfile } = require('../controllers/profile.controller');
 
 profileRouter.get('/:user', findProfile);
 
